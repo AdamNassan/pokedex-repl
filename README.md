@@ -203,19 +203,8 @@ Run tests with:
 npm test
 ```
 
-## License
-
-This project is created for educational purposes as part of the Boot.dev curriculum.
 
 ## Acknowledgments
 
 - [PokeAPI](https://pokeapi.co/) for providing the Pokemon data
 - [Boot.dev](https://boot.dev/) for the project structure and guidance
-
-## Contributing
-
-This is a learning project, but suggestions and improvements are welcome!
-
----
-
-**Gotta Catch 'Em All!** 🎮
